@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Projets persos
+## 🚀 Projets
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
