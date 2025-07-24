@@ -1,8 +1,9 @@
 <h1 align="center">👋 Salut, moi c’est Hugo</h1>
 
 <p align="center">
-🎓 Développeur Full Stack & Technicien Réseau — 21 ans  
-💼 Alternant chez Airbus Atlantic (Méaulte) — iM
+🎂 21
+🎓 Développeur Full Stack & Technicien Réseau
+💼 Alternant chez Airbus Atlantic (Méaulte)
 </p>
 
 ---
