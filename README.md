@@ -45,5 +45,6 @@
 
 ---
 
-> J'apprends encore,  
+> J'apprends encore
+> Je veux faire un fangame pokemon
 > — Hugo / Darioh
