@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Développeur Full Stack & Technicien Réseau — 21 ans  
-💼 Alternance chez Airbus Atlantic (Méaulte) — iM Front Office  
+💼 Alternant chez Airbus Atlantic (Méaulte) — iM
 🧠 Passionné de code, de création et de performance  
 </p>
 
