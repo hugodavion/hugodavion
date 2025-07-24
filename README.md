@@ -32,9 +32,9 @@
 ## 📍 Parcours
 
 - 🎓 **Licence Pro Réseau & Génie Informatique** – IUT Amiens (2024–2025)  
-- 🎓 **BTS SIO SLAM** – Lycée Saint-Rémi (2022–2024)  
+- 🎓 **BTS SIO SLAM** – Saint-Rémi (2022–2024)  
 - 🛠️ **Alternance** – Airbus Atlantic (2025)  
-- 🧪 **Stages** – Numih-Mipih (2023–2024)
+- 🧪 **Stages** – Numih/Mipih (2023–2024)
 
 ---
 
