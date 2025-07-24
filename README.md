@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Projets en vedette
+## 🚀 Projets persos
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
