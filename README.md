@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, moi c’est Hugo</h1>
+<h1 align="center"> Salut, moi c’est Hugo</h1>
 
 <p align="center">
 🎂 21
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧰 Stack principale
+## Compétences
 
 - **Langages** : `C#`, `Java`, `Python`, `PHP`, `HTML`, `CSS`, `JavaScript`, `SQL`, `VBA`, `Bash`
 - **Environnements** : `Visual Studio`, `VS Code`, `UE5`
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Projets
+## Projets
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 📍 Parcours
+##  Parcours
 
 - 🎓 **Licence Pro Réseau & Génie Informatique** – IUT Amiens (2024–2025)  
 - 🎓 **BTS SIO SLAM** – Saint-Rémi (2022–2024)  
@@ -38,10 +38,10 @@
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugodavion)  
-📧 davionhugo@gmail.com
+https://www.linkedin.com/in/hugodavion
+davionhugo@gmail.com
 
 ---
 
