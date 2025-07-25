@@ -19,20 +19,20 @@
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| 🎮 **Fangame Pokémon HD-2D** | RPG style Zelda/Pokémon en Unreal Engine 5 | `UE5`, `Blueprints`, `C++`, `Pixel Art`, `Map Design` |
-| 🤖 **Bot Discord** | Bot custom avec commandes, API et gestion de rôles | `Python`, `discord.py`, `REST API` |
-| 🧠 **Pokédex C#** | Application connectée à l'API PokéAPI avec UI | `C#`, `WinForms`, `API`, `JSON` |
-| 🌐 **WebApp PHP/SQL** | App complète CRUD + Auth | `PHP`, `MySQL`, `HTML/CSS/JS`, `XAMPP` |
-| 🛡️ **Scripts Sécurité** | Automatisation tâches réseau / parc info | `Bash`, `SQL`, `Windows`, `cybersécurité` |
+| **Fangame Pokémon HD2D** | RPG style Zelda/Pokémon en Unreal Engine 5 | `UE5`, `Blueprints`, `C++`, `Pixel Art`, `Map Design` |
+| **WebApps** | Apps complètes CRUD + Auth | `PHP`, `MySQL`, `HTML/CSS/JS`, `XAMPP` |
+| **Pokédex C#** | Application connectée à l'API PokéAPI avec UI | `C#`, `WinForms`, `API`, `JSON` |
+| **Bot Discord** | Bot custom avec commandes, API et gestion de rôles | `Python`, `discord.py`, `REST API` |
+| **Scripts Sécurité** | Automatisation tâches réseau / parc info | `Bash`, `SQL`, `Windows`, `cybersécurité` |
 
 ---
 
 ##  Parcours
 
-- 🎓 **Licence Pro Réseau & Génie Informatique** – IUT Amiens (2024–2025)  
-- 🎓 **BTS SIO SLAM** – Saint-Rémi (2022–2024)  
-- 🛠️ **Alternance** – Airbus Atlantic (2025)  
-- 🧪 **Stages** – Numih/Mipih (2023–2024)
+- **Licence Pro Réseau & Génie Informatique** – IUT Amiens (2024–2025)  
+- **BTS SIO SLAM** – Saint-Rémi (2022–2024)  
+- **Alternance** – Airbus Atlantic (2025)  
+- **Stages** – Numih/Mipih (2023–2024)
 
 ---
 
