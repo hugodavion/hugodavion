@@ -1,4 +1,4 @@
-<h1 align="center"> Salut, moi c’est Hugo !</h1>
+<h1 align="center"> Salut, moi c’est Hugo</h1>
 
 <p align="center">
  21ans | Développeur Full Stack & Technicien Réseau | Apprenti chez Airbus Atlantic
@@ -8,10 +8,10 @@
 
 ## Compétences
 
-- **Langages** : `C#`, `Java`, `Python`, `PHP`, `HTML`, `CSS`, `JavaScript`, `SQL`, `VBA`, `Bash`
-- **Environnements** : `Visual Studio`, `VS Code`, `UE5`
+- **Langages** : `C#`,`JavaScript`, `Java`, `Python`, `PHP`, `HTML`, `CSS`, `SQL`, `VBA`, `Bash`
+- **Environnements** : `Visual Studio`, `VS Code`, `UE5`, `Unity`
 - **Systèmes & Réseaux** : `Windows Server`, `TCP/IP`, `VLAN`, `Active Directory`
-- **Outils & plateformes** : `GitHub`, `GLPI`, `ServiceNow`, `Google Workspace`
+- **Outils & plateformes** : `GitHub`, `GLPI`, `ServiceNow`, `Google Workspace`, `Supabase`, `Render`
 
 ---
 
