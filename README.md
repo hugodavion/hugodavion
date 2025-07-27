@@ -19,11 +19,11 @@
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| **Fangame Pokémon HD2D** | RPG style Zelda/Pokémon en Unreal Engine 5 | `UE5`, `Blueprints`, `C++`, `Pixel Art`, `Map Design` |
-| **WebApps** | Apps complètes CRUD + Auth | `PHP`, `MySQL`, `HTML/CSS/JS`, `XAMPP` |
+
+| **WebApp** | App complète CRUD + Auth | `Supabase`, `HTML/CSS/JS`, `Render`, `API` |
 | **Pokédex C#** | Application connectée à l'API PokéAPI avec UI | `C#`, `WinForms`, `API`, `JSON` |
 | **Bot Discord** | Bot custom avec commandes, API et gestion de rôles | `Python`, `discord.py`, `REST API` |
-| **Scripts Sécurité** | Automatisation tâches réseau / parc info | `Bash`, `SQL`, `Windows`, `cybersécurité` |
+| **Fangame Pokémon HD2D** | EN COURS // Pokémon sous Unreal Engine 5 | `UE5`, `Blueprints`, `C++`, `Pixel Art`, `Map Design` |
 
 ---
 
