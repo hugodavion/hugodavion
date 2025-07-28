@@ -20,9 +20,9 @@
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | **WebApp** | App complète CRUD + Auth | `Supabase`, `HTML/CSS/JS`, `Render`, `API` |
-| **Pokédex C#** | Application connectée à l'API PokéAPI avec UI | `C#`, `WinForms`, `API`, `JSON` |
+| **Pokédex C#** | Application connectée à l'API PokéAPI + UI | `C#`, `WinForms`, `API`, `JSON` |
 | **Bot Discord** | Bot custom avec commandes, API et gestion de rôles | `Python`, `discord.py`, `REST API` |
-| **Fangame Pokémon HD2D** | EN COURS - Pokémon sous Unreal Engine 5 | `UE5`, `Blueprints`, `C++`, `Pixel Art`, `Map Design` |
+| **Fangame Pokémon HD2D** | EN COURS - Pokémon Unreal Engine 5 | `UE5`, `Blueprints`, `C++`, `Pixel Art`, `Map Design` |
 
 ---
 
