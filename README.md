@@ -41,5 +41,3 @@ https://www.linkedin.com/in/hugodavion
 davionhugo@gmail.com
 
 ---
-
-J'apprends encore
