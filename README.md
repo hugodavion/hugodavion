@@ -17,12 +17,14 @@
 
 ## Projets
 
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| **WebApp** | App complète CRUD + Auth | `Supabase`, `HTML/CSS/JS`, `Render`, `API` |
-| **Pokédex C#** | Application connectée à l'API PokéAPI + UI | `C#`, `WinForms`, `API`, `JSON` |
-| **Bot Discord** | Bot custom avec commandes, API et gestion de rôles | `Python`, `discord.py`, `REST API` |
-| **Fangame Pokémon HD2D** | EN COURS - Pokémon Unreal Engine 5 | `UE5`, `Blueprints`, `C++`, `Pixel Art`, `Map Design` |
+| Projet | Description | Démo | Code |
+|-------|-------------|------|------|
+| **SQCDP WebApp** | Application web CRUD avec authentification et base de données | [🌍 Démo](https://hugodavion.github.io/sqcdp-webapp/) | [💻 Code](https://github.com/hugodavion/sqcdp-webapp) |
+| **Fan Page Pokémon** | Site statique fan Pokémon (design + contenu interactif)| [🌍 Démo](https://hugodavion.github.io/pokerift/) | [💻 Code](https://github.com/hugodavion/pokerift) |
+| **Fangame Pokémon HD-2D** | EN COURS - Fangame Pokémon en style HD-2D sous Unreal Engine 5 | |
+| **Pokédex C#** | Application WinForms connectée à l’API PokéAPI | – | [💻 Code](https://github.com/hugodavion/pokedex) |
+| **Bot Discord** | Bot Discord custom (commandes, API, gestion de rôles) | – | [💻 Code](https://github.com/hugodavion/schoolprojects) |
+
 
 ---
 
