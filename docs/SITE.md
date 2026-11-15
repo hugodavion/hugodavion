@@ -26,8 +26,8 @@ Portfolio web gamifié de **Hugo Davion** : chambre pixel art rétro + bureau du
 **Prérequis** : Node.js 20+
 
 ```bash
-git clone https://github.com/hugodavion/dariohd.git
-cd dariohd
+git clone https://github.com/hugodavion/hugodavion.git
+cd hugodavion
 npm install
 npm run dev
 ```
@@ -86,7 +86,7 @@ clear         : effacer l'écran
 ## Structure du projet
 
 ```
-dariohd/
+hugodavion/
 ├── public/sprites/          # Assets pixel (chambre, Nate, collision)
 ├── src/
 │   ├── components/
@@ -108,7 +108,7 @@ dariohd/
 
 ### Vercel (recommandé)
 
-1. Importer le repo [github.com/hugodavion/dariohd](https://github.com/hugodavion/dariohd)
+1. Importer le repo [github.com/hugodavion/hugodavion](https://github.com/hugodavion/hugodavion)
 2. Framework : **Vite**
 3. Build : `npm run build`
 4. Output : `dist`

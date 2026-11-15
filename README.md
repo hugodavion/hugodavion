@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **URL production** | https://hugodavion.vercel.app |
-| **Dépôt** | [github.com/hugodavion/dariohd](https://github.com/hugodavion/dariohd) |
+| **Dépôt** | [github.com/hugodavion/hugodavion](https://github.com/hugodavion/hugodavion) |
 | **Stack** | React 18, TypeScript, Vite, Zustand, Framer Motion, Canvas 2D |
 
 Développeur full stack, web et technicien réseaux. En alternance chez **CGI** (TypeScript, Java Spring, PostgreSQL) et en cycle ingénieur **RIOC** à UniLaSalle Amiens. Je conçois aussi des sites vitrines, PWA métier et expériences ludiques en indépendant.
