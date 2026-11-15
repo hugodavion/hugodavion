@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **URL production** | https://dariohd.vercel.app |
-| **Dépôt** | [github.com/quy-lin/dariohd](https://github.com/quy-lin/dariohd) |
+| **Dépôt** | [github.com/hugodavion/dariohd](https://github.com/hugodavion/dariohd) |
 | **Stack** | React 18, TypeScript, Vite, Zustand, Framer Motion, Canvas 2D |
 
 Développeur full stack, web et technicien réseaux. En alternance chez **CGI** (TypeScript, Java Spring, PostgreSQL) et en cycle ingénieur **RIOC** à UniLaSalle Amiens. Je conçois aussi des sites vitrines, PWA métier et expériences ludiques en indépendant.
@@ -78,7 +78,7 @@ Ce dépôt contient mon **portfolio interactif** (scène pixel + bureau DHD OS).
 - **Email** : [davionhugo@gmail.com](mailto:davionhugo@gmail.com)
 - **Téléphone** : 06 13 80 95 65
 - **LinkedIn** : [linkedin.com/in/hugodavion](https://www.linkedin.com/in/hugodavion)
-- **GitHub** : [github.com/quy-lin](https://github.com/quy-lin)
+- **GitHub** : [github.com/hugodavion](https://github.com/hugodavion)
 
 ---
 

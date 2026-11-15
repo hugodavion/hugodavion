@@ -41,7 +41,7 @@ export const profile = {
   links: {
     email: 'davionhugo@gmail.com',
     phone: '06 13 80 95 65',
-    github: 'https://github.com/quy-lin',
+    github: 'https://github.com/hugodavion',
     linkedin: 'https://www.linkedin.com/in/hugodavion',
   },
   services: [

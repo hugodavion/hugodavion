@@ -22,7 +22,7 @@ export const projects: Project[] = [
     description:
       "Site vitrine pour une maison d'hôtes à Jumilhac-le-Grand : séjours thématiques, galerie photo, réservation et versions FR/EN.",
     url: 'https://www.lamaisondela.com',
-    repo: 'https://github.com/quy-lin/lamaisondela',
+    repo: 'https://github.com/hugodavion/lamaisondela',
     preview: 'thumbnail',
     tags: ['HTML/CSS', 'Galerie', 'Multilingue', 'SEO'],
     color: '#f0a8c8',
@@ -36,7 +36,7 @@ export const projects: Project[] = [
     description:
       "Landing immersive pour une maison d'hôtes dans une gare rénovée : storytelling, chambres, carte OpenStreetMap et demande de réservation.",
     url: 'https://quai-des-reves.vercel.app/',
-    repo: 'https://github.com/quy-lin/quaidesreves',
+    repo: 'https://github.com/hugodavion/quaidesreves',
     preview: 'iframe',
     tags: ['Landing', 'Storytelling', 'OpenStreetMap', 'Vercel'],
     color: '#6898c8',
@@ -50,7 +50,7 @@ export const projects: Project[] = [
     description:
       "Site professionnel pour une entreprise de charpente à Jumilhac-le-Grand : métiers, zone d'intervention, galerie de chantiers filtrable et devis.",
     url: 'https://www.etcbc-charpente.com/',
-    repo: 'https://github.com/quy-lin/etcbc',
+    repo: 'https://github.com/hugodavion/etcbc',
     preview: 'iframe',
     tags: ['Site pro', 'Galerie', 'SEO local', 'JavaScript'],
     color: '#c8a070',
@@ -64,7 +64,7 @@ export const projects: Project[] = [
     description:
       'Widget IA greffable sur un site vitrine : chat contextuel, indexation du contenu, clés par domaine et déploiement Vercel.',
     url: 'https://bullechatbot.vercel.app',
-    repo: 'https://github.com/quy-lin/bullechatbot',
+    repo: 'https://github.com/hugodavion/bullechatbot',
     preview: 'iframe',
     tags: ['Next.js', 'AI SDK', 'Widget', 'Vercel'],
     color: '#a868e8',
@@ -78,7 +78,7 @@ export const projects: Project[] = [
     description:
       "Site commercial de l'agence : offres artisans/tourisme, carrousel de réalisations, mini-navigateurs intégrés et modules JS.",
     url: 'https://www.bulletonsite.com',
-    repo: 'https://github.com/quy-lin/bulletonsite',
+    repo: 'https://github.com/hugodavion/bulletonsite',
     preview: 'thumbnail',
     tags: ['Agence', 'Modules JS', 'Thèmes CSS', 'Vercel'],
     color: '#f0c060',
