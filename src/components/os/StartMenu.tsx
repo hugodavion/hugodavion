@@ -51,7 +51,7 @@ export function StartMenu({ open, onClose, onStudio, onShutdown }: StartMenuProp
         <span className="start-menu__avatar">{profile.alias[0]}</span>
         <div>
           <div className="start-menu__user">{profile.handle}</div>
-          <div className="start-menu__host">{profile.alias}.local · Studio DHD</div>
+          <div className="start-menu__host">{profile.handle}.local</div>
         </div>
       </div>
 

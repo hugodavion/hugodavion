@@ -8,7 +8,7 @@ export function NotesApp() {
   return (
     <div className="app-notes">
       <header className="app-notes__header">
-        <h2>Notes DHD</h2>
+        <h2>Notes</h2>
         <p>Bloc-notes local, sauvegardé sur ce poste</p>
       </header>
       <textarea

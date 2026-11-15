@@ -109,7 +109,7 @@ export function Desktop() {
 
       <header className="desktop__menubar">
         <span className="desktop__menubar-brand">
-          <span className="desktop__menubar-dot" /> DHD OS
+          <span className="desktop__menubar-dot" /> Hugo Davion
         </span>
         <nav className="desktop__menubar-nav" aria-label="Menu principal">
           <button type="button" onClick={() => openApp('projects')}>Projets</button>
@@ -212,7 +212,7 @@ export function Desktop() {
               transition={{ duration: 0.22, ease: 'easeOut' }}
             >
               <p>
-                <strong>Bienvenue sur DHD OS.</strong> Apps et jeux à gauche, dossiers centrés au-dessus de la barre des tâches.
+                <strong>Bienvenue sur Hugo Davion.</strong> Apps et jeux à gauche, dossiers centrés au-dessus de la barre des tâches.
                 Clic pour ouvrir · glisser pour déplacer · clic droit pour le menu.
               </p>
               <button type="button" className="btn btn--primary btn--sm" onClick={() => setWelcomeDismissed(true)}>
@@ -249,7 +249,7 @@ export function Desktop() {
             className="shortcuts-overlay__panel"
             onClick={(e) => e.stopPropagation()}
           >
-            <h3>Raccourcis DHD OS</h3>
+            <h3>Raccourcis Hugo Davion</h3>
             <ul>
               <li><kbd>Alt</kbd> + <kbd>1–8</kbd> Ouvrir une app</li>
               <li><kbd>Échap</kbd> Fermer la fenêtre active</li>

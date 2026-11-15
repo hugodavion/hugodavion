@@ -8,7 +8,7 @@ import { playBootComplete, playBootTick } from '../../game/audio';
 const BOOT_LINES = [
   'Connexion depuis la chambre… OK',
   `Session locale ${profile.handle}@${profile.alias}… OK`,
-  `${profile.alias} OS v2.0 · noyau stable`,
+  `${profile.brand} · noyau stable`,
   'Gestionnaire de fenêtres… OK',
   `Indexation portfolio (${projects.length} projets)… OK`,
   'Réseau Vercel… OK',
@@ -58,7 +58,7 @@ export function BootScreen() {
         animate={{ opacity: 1, scale: 1 }}
       >
         <div className="boot-screen__header">
-          <div className="boot-screen__logo">{profile.alias} OS</div>
+          <div className="boot-screen__logo">{profile.brand}</div>
           <span className="boot-screen__version">build 2.0 · chambre</span>
         </div>
 

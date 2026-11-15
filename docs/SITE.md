@@ -1,13 +1,13 @@
 # Portfolio interactif : documentation technique
 
-Portfolio web gamifié de **dariohd** : chambre pixel art rétro + bureau fictif **DHD OS** pour présenter les projets.
+Portfolio web gamifié de **Hugo Davion** : chambre pixel art rétro + bureau du portfolio pour présenter les projets.
 
 ---
 
 ## Parcours utilisateur
 
 ```
-Écran titre → Chambre (canvas) → Boot DHD OS → Bureau → Apps & projets
+Écran titre → Chambre (canvas) → Boot du portfolio → Bureau → Apps & projets
                     ↑                                    │
                     └──────── escaliers / shutdown ──────┘
 ```
@@ -56,7 +56,7 @@ npm run dev
 | Escaliers (retour menu) | `E` ou `↑`/`↓` près des escaliers | Clic sur zone escaliers |
 | Retour menu | Bouton « ← Menu » | idem |
 
-### DHD OS (bureau)
+### Bureau
 
 | Raccourci | Action |
 |-----------|--------|

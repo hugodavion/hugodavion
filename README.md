@@ -1,12 +1,12 @@
-# dariohd
+# Hugo Davion
 
-**Hugo Davion** · développeur full stack · alias **dariohd** / **DHD**
+**Hugo Davion** · développeur full stack
 
-> **Documentation technique du site** : [docs/SITE.md](./docs/SITE.md) (architecture React, DHD OS, scène pixel, déploiement)
+> **Documentation technique du site** : [docs/SITE.md](./docs/SITE.md) (architecture React, portfolio, scène pixel, déploiement)
 
 | | |
 |---|---|
-| **URL production** | https://dariohd.vercel.app |
+| **URL production** | https://hugodavion.vercel.app |
 | **Dépôt** | [github.com/hugodavion/dariohd](https://github.com/hugodavion/dariohd) |
 | **Stack** | React 18, TypeScript, Vite, Zustand, Framer Motion, Canvas 2D |
 
@@ -69,7 +69,7 @@ Développeur full stack, web et technicien réseaux. En alternance chez **CGI** 
 | Bulle | Widget IA pour sites web | [bullechatbot.vercel.app](https://bullechatbot.vercel.app) |
 | Bulle ton site | Agence sites vitrines artisans | [bulletonsite.com](https://bulletonsite.com) |
 
-Ce dépôt contient mon **portfolio interactif** (scène pixel + bureau DHD OS). Doc technique : [docs/SITE.md](docs/SITE.md).
+Ce dépôt contient mon **portfolio interactif** (scène pixel + bureau). Doc technique : [docs/SITE.md](docs/SITE.md).
 
 ---
 
@@ -83,5 +83,5 @@ Ce dépôt contient mon **portfolio interactif** (scène pixel + bureau DHD OS).
 ---
 
 <p align="center">
-  <strong>Hugo Davion</strong> · dariohd · DHD · France
+  <strong>Hugo Davion</strong> · France
 </p>

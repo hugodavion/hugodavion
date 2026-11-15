@@ -224,7 +224,7 @@ export function RoomScene() {
   return (
     <div className={`room-scene${booting ? ' room-scene--booting' : ''}${exiting ? ' room-scene--exiting' : ''}`}>
       <header className="room-scene__header">
-        <span className="room-scene__brand">DHD OS</span>
+        <span className="room-scene__brand">Hugo Davion</span>
         <button type="button" className="btn btn--ghost btn--sm" onClick={() => setPhase('title')}>
           ← Menu
         </button>
@@ -256,7 +256,7 @@ export function RoomScene() {
                 >
                   <div className="room-scene__crt-glow" aria-hidden="true" />
                   <div className="room-scene__crt-text">
-                    {['Connexion PC…', 'Chargement DHD OS…', 'Ouverture session…'][bootMsg]}
+                    {['Connexion PC…', 'Chargement du bureau…', 'Ouverture session…'][bootMsg]}
                   </div>
                   <div className="room-scene__crt-bar" aria-hidden="true">
                     <motion.div

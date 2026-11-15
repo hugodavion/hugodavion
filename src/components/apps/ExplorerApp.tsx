@@ -21,7 +21,7 @@ const TREE: TreeNode[] = [
     icon: '🖥️',
     children: [
       { id: 'apps', label: 'Applications', icon: '📦', appId: 'projects' },
-      { id: 'notes', label: 'Notes DHD.txt', icon: '📝', appId: 'notes' },
+      { id: 'notes', label: 'Notes.txt', icon: '📝', appId: 'notes' },
     ],
   },
   {

@@ -28,7 +28,7 @@ export function TerminalApp() {
   const openApp = useOsStore((s) => s.openApp);
   const setPhase = useAppStore((s) => s.setPhase);
   const [lines, setLines] = useState<TermLine[]>([
-    { type: 'out', text: 'DHD OS · Terminal v2.0' },
+    { type: 'out', text: 'Hugo Davion · Terminal v2.0' },
     { type: 'out', text: 'Tapez "help" pour commencer.' },
   ]);
   const [input, setInput] = useState('');
@@ -106,14 +106,14 @@ export function TerminalApp() {
         break;
       case 'notes':
         openApp('notes');
-        setLines((prev) => [...prev, { type: 'out', text: 'Ouverture Notes DHD…' }]);
+        setLines((prev) => [...prev, { type: 'out', text: 'Ouverture des notes…' }]);
         break;
       case 'settings':
         openApp('settings');
         setLines((prev) => [...prev, { type: 'out', text: 'Ouverture Paramètres…' }]);
         break;
       case 'studio':
-        setLines((prev) => [...prev, { type: 'out', text: 'Fermeture de la session DHD OS…' }]);
+        setLines((prev) => [...prev, { type: 'out', text: 'Fermeture de la session…' }]);
         setTimeout(() => {
           useOsStore.getState().closeAllWindows();
           setPhase('room');

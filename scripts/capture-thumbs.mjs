@@ -1,5 +1,5 @@
 /**
- * Vignettes projets pour le portfolio dariohd.
+ * Vignettes projets pour le portfolio Hugo Davion.
  * Usage : npx playwright install chromium && node scripts/capture-thumbs.mjs
  */
 import { chromium } from 'playwright';

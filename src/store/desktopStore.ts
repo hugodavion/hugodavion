@@ -74,7 +74,7 @@ export const useDesktopStore = create<DesktopState>((set) => ({
 }));
 
 export const wallpapers: { id: WallpaperId; label: string }[] = [
-  { id: 'aurora', label: 'Aurore DHD' },
+  { id: 'aurora', label: 'Aurore' },
   { id: 'midnight', label: 'Minuit' },
   { id: 'dordogne', label: 'Dordogne' },
 ];

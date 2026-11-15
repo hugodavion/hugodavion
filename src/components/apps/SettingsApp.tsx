@@ -17,7 +17,7 @@ export function SettingsApp() {
     <div className="app-settings">
       <header className="app-settings__header">
         <h2>Paramètres système</h2>
-        <p>DHD OS v2.0 · {profile.handle}@{profile.alias}</p>
+        <p>{profile.brand}</p>
       </header>
 
       <section className="app-settings__section">
@@ -76,7 +76,7 @@ export function SettingsApp() {
         <h3>À propos du système</h3>
         <ul>
           <li>Chambre pixel · style rétro GBA</li>
-          <li>Bureau DHD OS · React + TypeScript</li>
+          <li>Bureau · React + TypeScript</li>
           <li>{profile.alias} · {profile.location}</li>
         </ul>
       </section>
