@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **URL production** | https://dariohd.vercel.app |
-| **Dépôt** | [github.com/dariohd/dariohd](https://github.com/dariohd/dariohd) |
+| **Dépôt** | [github.com/quy-lin/dariohd](https://github.com/quy-lin/dariohd) |
 | **Stack** | React 18, TypeScript, Vite, Zustand, Framer Motion, Canvas 2D |
 
 Développeur full stack, web et technicien réseaux. En alternance chez **CGI** (TypeScript, Java Spring, PostgreSQL) et en cycle ingénieur **RIOC** à UniLaSalle Amiens. Je conçois aussi des sites vitrines, PWA métier et expériences ludiques en indépendant.
@@ -66,14 +66,8 @@ Développeur full stack, web et technicien réseaux. En alternance chez **CGI** 
 | La Maison d'Ela | Chambre d'hôtes, Dordogne | [lamaisondela.com](https://lamaisondela.com) |
 | Quai des Rêves | Maison d'hôtes, Bretagne | [quai-des-reves.vercel.app](https://quai-des-reves.vercel.app/) |
 | ETCBC | Charpente & construction bois | [etcbc-charpente.com](https://www.etcbc-charpente.com/) |
-| Domaine de Roche | Gîtes & château, Charente-Maritime | [domainederoche.vercel.app](https://domainederoche.vercel.app/) |
-| SQCDP | PWA pilotage industriel (Daily, PDCA) | [sqcdp.vercel.app](https://sqcdp.vercel.app/) |
 | Bulle | Widget IA pour sites web | [bullechatbot.vercel.app](https://bullechatbot.vercel.app) |
 | Bulle ton site | Agence sites vitrines artisans | [bulletonsite.com](https://bulletonsite.com) |
-| RL Replay | Analyse de replays Rocket League | [rl-replay.vercel.app](https://rl-replay.vercel.app/) |
-| hugodavion | Portfolio technique classique | [hugodavion.vercel.app](https://hugodavion.vercel.app/) |
-| PokeArena | Figurines 2.5D · PokéAPI | [arena-poke.vercel.app](https://arena-poke.vercel.app/) |
-| Dex Explorer | Encyclopédie web React + API | [dex-explorer.vercel.app](https://dex-explorer.vercel.app) |
 
 Ce dépôt contient mon **portfolio interactif** (scène pixel + bureau DHD OS). Doc technique : [docs/SITE.md](docs/SITE.md).
 
@@ -84,8 +78,7 @@ Ce dépôt contient mon **portfolio interactif** (scène pixel + bureau DHD OS).
 - **Email** : [davionhugo@gmail.com](mailto:davionhugo@gmail.com)
 - **Téléphone** : 06 13 80 95 65
 - **LinkedIn** : [linkedin.com/in/hugodavion](https://www.linkedin.com/in/hugodavion)
-- **GitHub** : [github.com/dariohd](https://github.com/dariohd)
-- **Portfolio** : [hugodavion.vercel.app](https://hugodavion.vercel.app/)
+- **GitHub** : [github.com/quy-lin](https://github.com/quy-lin)
 
 ---
 

@@ -23,7 +23,7 @@ export interface Language {
 }
 
 export const profile = {
-  /** Nom civil — CV, contact (portfolio classique hugodavion). */
+  /** Nom civil — CV, contact. */
   name: 'Hugo Davion',
   /** Identité publique de ce portfolio interactif. */
   brand: 'dariohd',
@@ -41,9 +41,8 @@ export const profile = {
   links: {
     email: 'davionhugo@gmail.com',
     phone: '06 13 80 95 65',
-    github: 'https://github.com/dariohd',
+    github: 'https://github.com/quy-lin',
     linkedin: 'https://www.linkedin.com/in/hugodavion',
-    portfolio: 'https://hugodavion.vercel.app/',
   },
   services: [
     { icon: '🌐', label: 'Sites vitrines', desc: 'Landing pages, SEO, réservation, multilingue' },

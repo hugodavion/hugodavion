@@ -34,7 +34,7 @@ export const desktopFolders: DesktopFolder[] = [
     icon: '🐙',
     color: '#a868e8',
     action: 'url',
-    url: 'https://github.com/dariohd',
+    url: 'https://github.com/quy-lin',
   },
 ];
 

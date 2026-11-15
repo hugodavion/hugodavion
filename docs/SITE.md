@@ -26,7 +26,7 @@ Portfolio web gamifié de **dariohd** : chambre pixel art rétro + bureau fictif
 **Prérequis** : Node.js 20+
 
 ```bash
-git clone https://github.com/dariohd/dariohd.git
+git clone https://github.com/quy-lin/dariohd.git
 cd dariohd
 npm install
 npm run dev
@@ -108,7 +108,7 @@ dariohd/
 
 ### Vercel (recommandé)
 
-1. Importer le repo [github.com/dariohd/dariohd](https://github.com/dariohd/dariohd)
+1. Importer le repo [github.com/quy-lin/dariohd](https://github.com/quy-lin/dariohd)
 2. Framework : **Vite**
 3. Build : `npm run build`
 4. Output : `dist`

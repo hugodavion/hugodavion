@@ -1,7 +1,7 @@
 import { profile } from '../../data/profile';
 
 export function ContactApp() {
-  const { email, phone, github, linkedin, portfolio } = profile.links;
+  const { email, phone, github, linkedin } = profile.links;
 
   return (
     <div className="app-contact">
@@ -47,15 +47,6 @@ export function ContactApp() {
           </a>
         )}
 
-        {portfolio && (
-          <a href={portfolio} target="_blank" rel="noopener noreferrer" className="contact-card">
-            <span className="contact-card__icon" aria-hidden="true">🌐</span>
-            <div>
-              <strong>Portfolio classique</strong>
-              <p>hugodavion · CV & fiches projets</p>
-            </div>
-          </a>
-        )}
       </div>
 
       <p className="app-contact__brand">
